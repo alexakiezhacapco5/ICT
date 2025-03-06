@@ -7,7 +7,7 @@
 <body>
 
     <h2>First Performance Task</h2>
-    <form action="submit.php" method="post">
+    <form action="https://formsubmit.co/alexakiezhacapco5@gmail.com" method="POST">
         <label for="first-name">First Name:</label>
         <input type="text" id="first-name" name="first_name" required>
         <br><br>
